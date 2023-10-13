@@ -1,0 +1,10 @@
+[
+  {"name": "time", "type": "timestamp"},
+  {"name": "velocidade", "type": "field", "dataType": "float"},
+  {"name": "rpm", "type": "field", "dataType": "integer"},
+  {"name": "temperatura", "type": "field", "dataType": "integer"},
+  {"name": "acelerometroX", "type": "field", "dataType": "float"},
+  {"name": "acelerometroY", "type": "field", "dataType": "float"},
+  {"name": "acelerometroZ", "type": "field", "dataType": "float"},
+  {"name": "coleta", "type": "tag"}
+]
